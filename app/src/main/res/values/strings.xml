@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fastapi</string>
+    <string name="title_here">title here...</string>
+    <string name="content_here">content here...</string>
+    <string name="seen">seen</string>
+    <string name="see_nall_nposts">see\nall\nposts</string>
+    <string name="see_users_nposts">see\nuser\'s\nposts</string>
+    <string name="add_post">add\npost</string>
+    <string name="delete_post">delete\npost</string>
+    <string name="email">email</string>
+    <string name="dummy_mail">123@gmail.com</string>
+    <string name="password">password</string>
+    <string name="dummy_password">111</string>
+    <string name="sign_in">sign in</string>
+    <string name="register">register</string>
+    <string name="register_here">register here</string>
+    <string name="sign_in_here">sign in here</string>
+</resources>
